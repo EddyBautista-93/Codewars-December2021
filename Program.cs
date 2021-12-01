@@ -19,12 +19,30 @@ namespace Codewars_December2021
 
         public static int CountDeafRats(string town)
         {
-            return 0;
+            var piperOnTheLeft = false;
+            var deafRat = 0;
+            for (var i = 0; i < town.Length; i++)
+            {
+                if (town[i] == 'P') piperOnTheLeft = true;
+                if (town[i] == 'O')
+                {
+                    i++;
+                    if (!piperOnTheLeft) deafRat++;
+                    continue;
+                }
+                if (town[i] == '~')
+                {
+                    i++;
+                    if (piperOnTheLeft) deafRat++;
+                    continue;
+                }
+            }
+            return deafRat;
         }
         static void Main(string[] args)
         {
             CountDeafRats("~O~O~O~O P");
-            
+            CountDeafRats("P O~ O~ ~O O~");
         }
     }
 }

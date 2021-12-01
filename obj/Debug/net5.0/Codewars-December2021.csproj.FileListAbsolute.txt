@@ -1,0 +1,16 @@
+C:\Users\bauti\source\december\Codewars-December2021\bin\Debug\net5.0\Codewars-December2021.exe
+C:\Users\bauti\source\december\Codewars-December2021\bin\Debug\net5.0\Codewars-December2021.deps.json
+C:\Users\bauti\source\december\Codewars-December2021\bin\Debug\net5.0\Codewars-December2021.runtimeconfig.json
+C:\Users\bauti\source\december\Codewars-December2021\bin\Debug\net5.0\Codewars-December2021.runtimeconfig.dev.json
+C:\Users\bauti\source\december\Codewars-December2021\bin\Debug\net5.0\Codewars-December2021.dll
+C:\Users\bauti\source\december\Codewars-December2021\bin\Debug\net5.0\ref\Codewars-December2021.dll
+C:\Users\bauti\source\december\Codewars-December2021\bin\Debug\net5.0\Codewars-December2021.pdb
+C:\Users\bauti\source\december\Codewars-December2021\obj\Debug\net5.0\Codewars-December2021.csprojAssemblyReference.cache
+C:\Users\bauti\source\december\Codewars-December2021\obj\Debug\net5.0\Codewars-December2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauti\source\december\Codewars-December2021\obj\Debug\net5.0\Codewars-December2021.AssemblyInfoInputs.cache
+C:\Users\bauti\source\december\Codewars-December2021\obj\Debug\net5.0\Codewars-December2021.AssemblyInfo.cs
+C:\Users\bauti\source\december\Codewars-December2021\obj\Debug\net5.0\Codewars-December2021.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\december\Codewars-December2021\obj\Debug\net5.0\Codewars-December2021.dll
+C:\Users\bauti\source\december\Codewars-December2021\obj\Debug\net5.0\ref\Codewars-December2021.dll
+C:\Users\bauti\source\december\Codewars-December2021\obj\Debug\net5.0\Codewars-December2021.pdb
+C:\Users\bauti\source\december\Codewars-December2021\obj\Debug\net5.0\Codewars-December2021.genruntimeconfig.cache
